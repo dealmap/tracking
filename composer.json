@@ -1,0 +1,16 @@
+{
+    "name": "dealmap/tracking",
+    "description": "dealmap's lead-tracking package",
+    "authors": [
+        {
+            "name": "Azuma",
+            "email": "979669523@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dealmap\\Tracking": "src/"
+        }
+    }
+}
