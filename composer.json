@@ -4,13 +4,13 @@
     "authors": [
         {
             "name": "Azuma",
-            "email": "979669523@qq.com"
+            "email": "azuma.liu@dealmap.cloud"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Dealmap\\Tracking": "src/"
+            "Dealmap\\Tracking\\": "src/"
         }
     }
 }
